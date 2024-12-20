@@ -296,62 +296,20 @@ our Custom Itinerary Planner are designed to thoroughly validate the system’sf
 personalized recommendations, and payment processing. These tests ensure that the systemmeets both functional and non-functional requirements, providing a seamless and user-friendly experience. By conducting comprehensive tests like black box testing, boundary value testing, and UI testing, we can identify potential issues early on and address them before deployment. The successful execution of these test cases guarantees that the application will be robust, secure, and capable of offering customized travel planning solutions to users, thereby enhancing overall satisfaction and performance.
 
 ## Articles published / References
-[1] H. Shi and C. Liu, “A new foreground segmentation method for video analysis in different color
-spaces,” in 24th International Conference on Pattern Recognition, IEEE, 2018.
-[2] G. Liu, H. Shi, A. Kiani, A. Khreishah, J. Lee, N. Ansari, C. Liu, and M. M. Yousef, “Smart traffic
-monitoring system using computer vision and edge computing,” IEEE Transactions on Intelligent
-Transportation Systems, 2021.
-[3] H. Ghahremannezhad, H. Shi, and C. Liu, “Automatic road detection in traffic videos,” in 2020
-IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing,
-Sustainable Computing & Communications, Social Computing & Networking(ISPA/BDCloud/SocialCom/
-SustainCom), pp. 777–784, IEEE, 2020.
-[4] H. Ghahremannezhad, H. Shi, and C. Liu, “A new adaptive bidirectional region-of-interest
-detection method for intelligent traffic video analysis,” in 2020 IEEE Third International Conference on
-Artificial Intelligence and Knowledge Engineering (AIKE), pp. 17–24, IEEE, 2020.
-[5] H. Ghahremannezhad, H. Shi, and C. Liu, “Robust road region extraction in video under various
-illumination and weather conditions,” in 2020 IEEE 4th International Conference on Image Processing,
-Applications and Systems (IPAS), pp. 186–191, IEEE, 2020.
-[6] H. Shi, H. Ghahremannezhadand, and C. Liu, “A statistical modeling method for road recognition
-in traffic video analytics,” in 2020 11th IEEE International Conference on Cognitive Infocommunications
-(CogInfoCom), pp. 000097–000102, IEEE, 2020.
-[7] H. Ghahremannezhad, H. Shi, and C. Liu, “A real time accident detection framework for traffic
-video analysis,” in Machine Learning and Data Mining in Pattern Recognition, MLDM, pp. 77–92, ibai
-publishing, Leipzig, 2020.
-[8] M. O. Faruque, H. Ghahremannezhad, and C. Liu, “Vehicle classification in video using deep
-learning,” in Machine Learning and Data Mining in Pattern Recognition, MLDM, pp. 117–131, ibai
-publishing, Leipzig, 2019.
-[9] H. Ghahremannezhad, H. Shi, and C. Liu, “A new online approach for moving cast shadow
-suppression in traffic videos,” in 2021 IEEE International Intelligent Transportation Systems Conference
-(ITSC), pp. 3034–3039, IEEE, 2021.
-[10] H. Shi, H. Ghahremannezhad, and C. Liu, “Anomalous driving detection for traffic surveillance
-video analysis,” in 2021 IEEE International Conference on Imaging Systems and Techniques (IST), pp. 1–
-6, IEEE, 2021.
-[11] A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, “Yolov4: Optimal speed and accuracy of object
-detection,” arXiv preprint arXiv:2004.10934, 2020.
-[12] H. W. Kuhn, “The hungarian method for the assignment problem,” Naval research logistics
-quarterly, vol. 2, no. 1-2, pp. 83–97, 1955.
-[13] .L. Zheng, Z. Peng, J. Yan, and W. Han, ‘‘An online learning and unsupervised traffic anomaly
-detection system,’’ Adv. Sci. Lett., vol. 7, no. 1, pp. 449–455, 2012.
-[14] Y. Fangchun, W. Shangguang, L. Jinglin, L. Zhihan, and S. Qibo, ‘‘An overview of Internet of
-vehicles,’’ China Commun., vol. 11, no. 10, pp. 1–15, Oct. 2014.
-[15] .C. Ma, W. Hao, A. Wang, and H. Zhao, ‘‘Developing a coordinated signal control system for
-urban ring road under the vehicle-infrastructure connected environment,’’ IEEE Access, vol. 6, pp. 52471–
-52478, 2018.
-[16] S. Zhang, J. Chen, F. Lyu, N. Cheng, W. Shi, and X. Shen, ‘‘Vehicular communication networks in
-the automated driving era,’’ IEEE Commun. Mag., vol. 56, no. 9, pp. 26–32, Sep. 2018.
-[17] Y. Wang, D. Zhang, Y. Liu, B. Dai, and L. H. Lee, ‘‘Enhancing transportation systems via deep
-learning: A survey,’’ Transp. Res. C, Emerg. Technol., 2018.
-[18] G. Wu, F. Chen, X. Pan, M. Xu, and X. Zhu, ‘‘Using the visual intervention influence of pavement
-markings for rutting mitigation—Part I: Preliminary experiments and field tests,’’ Int. J. Pavement Eng.,
-vol. 20, no. 6, pp. 734– 746, 2019.
-[19] S. Ramos, S. Gehrig, P. Pinggera, U. Franke, and C. Rother, ‘‘Detecting unexpected obstacles for
-self-driving cars: Fusing deep learning and geometric modeling,’’ in Proc. IEEE Intell. Vehicles Symp. (IV),
-Jun. 2017, pp. 1025– 1032.
-[20] T. Qu, Q. Zhang, and S. Sun, ‘‘Vehicle detection from high-resolution aerial images using spatial
-pyramid pooling-based deep convolutional neural networks,’’ Multimedia Tools Appl., vol. 76, no. 20, pp.
-21651–21663, 2017. object tracking: A literature review,” Artificial Intelligence, vol. 293, p. 103448, 2021.
-[21] A. Bewley, Z. Ge, L. Ott, F. Ramos, and B. Upcroft, “Simple online and realtime tracking,” in 2016
-IEEE international conference on image processing (ICIP), pp. 3464–3468, IEEE, 2016.
+[1]	Ilie, C., & Iancu, B., “Applications of Natural Language Processing in Tourism”, Journal of Information Systems and Operations Management
+[2]	Xiang, Z., & Fesenmaier, D. R, “AI in Tourism: Trends and Research Directions,” Journal of Travel Research (2017)
 
+[3]	Gavalas, D., et al., “Automatic Generation of Personalized Travel Itineraries” IEEE Transactions on Intelligent Transportation Systems (2014)
+
+[4]	Arslan Ay, S., Erdem, Z., & Orhan, M. A., A Recommender System for Personalized Itineraries in City Tours” Expert Systems with Applications (2020)
+
+[5]	Fesenmaier, D. R., Werthner, H. “Designing Intelligent Travel Systems for Enhanced User Experience” Information Technology & Tourism, 2016
+
+[6]	Brown, T., et al., “Language Models are Few-Shot Learners” Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+[7]	Ricci, F., Cavada, D. “A Survey of Recommender Systems in Tourism” iJournal of Intelligent Information Systems, 2015.
+
+[8]	Ghaderi, Z., Henderson, J. C., “Leveraging AI for Sustainable Tourism: A Systematic Review”
+     SustainabilityJournal,2019
 
 
